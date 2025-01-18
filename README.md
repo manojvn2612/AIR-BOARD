@@ -64,7 +64,7 @@ Follow these steps to set up and use AIR BOARD:
 ---
 
 ## 🌟 Demo
-[Insert a GIF or video showing AIR BOARD in action]
+![image](https://github.com/user-attachments/assets/8af7fb2c-31ca-4136-9692-404ddac5f56f)
 
 ---
 
@@ -104,6 +104,3 @@ If you have any feedback or suggestions, feel free to:
 Let’s make online learning better for everyone! 🌟
 
 --- 
-
-
-![image](https://github.com/user-attachments/assets/8af7fb2c-31ca-4136-9692-404ddac5f56f)
